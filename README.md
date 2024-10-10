@@ -1,0 +1,1 @@
+All resources for my personal homepage.
